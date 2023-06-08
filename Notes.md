@@ -17,6 +17,9 @@ Control (TMC) -> Road Infrastructure (RSU) -> Cars (OBU)
         - Need to follow DSRC standards
 - Messages should result in control limits for the cars 
     - ie. capping speed in simulated construction zone
+    - start with [CAV in a box](https://github.com/usdot-fhwa-stol/cav-education/tree/develop/cav_box/faust/models)?
 
 ## Next To Do:
 - Get Jetson up and running
+    - Need microSD with bootable image. Downloaded prebuilt image from NVIDIA and found a microSD, but not sure if being reserved for something else
+    - 
