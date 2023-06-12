@@ -22,4 +22,5 @@ Control (TMC) -> Road Infrastructure (RSU) -> Cars (OBU)
 ## Next To Do:
 - Get Jetson up and running
     - Need microSD with bootable image. Downloaded prebuilt image from NVIDIA and found a microSD, but not sure if being reserved for something else
-    - 
+- Need forms to get Raspberry Pi and NVIDIA software
+- Need way to r/w to micro sd
